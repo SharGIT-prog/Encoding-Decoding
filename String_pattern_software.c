@@ -610,6 +610,4 @@ void main() {
         }
     } while (tolower(choice1) == 'y');
 }
-Gemini
-Gemini in Drive doesn't support C files
-Gemini in Workspace can make mistakes, so double-check responses. Learn more
+
